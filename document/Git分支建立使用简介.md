@@ -36,4 +36,5 @@
 ###每次提交前需要让自己的仓库与公司的master进行同步
 ###具体步骤参照另一篇文章"如何同步fork"
 <br>
-##[git学习资料](http://www.baidu.com)
+##[git学习资料一](http://www.google.com.hk)
+##[git学习资料二](http://www.baidu.com)
