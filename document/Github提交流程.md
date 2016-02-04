@@ -34,7 +34,7 @@
 <br>
 ## 与原分支同步
 ###每次提交前需要让自己的仓库与公司的master进行同步
-###具体步骤参照另一篇文章"如何同步fork"
+###具体步骤参照另一篇文章[如何同步fork](如何同步fork.md)
 <br>
 ##[git学习资料一](http://www.google.com.hk)
 ##[git学习资料二](http://www.baidu.com)
